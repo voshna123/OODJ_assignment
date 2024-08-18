@@ -1,6 +1,0 @@
-ID, Name, Age, Height (cm)
-1, Ben, 16, 173
-2, Nathan, 20, 179
-ID, Name, Age, Height (cm)
-1, Ben, 16, 173
-2, Nathan, 20, 179
